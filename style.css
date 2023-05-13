@@ -12,6 +12,9 @@ body{
     font-family: 'Anonymous Pro', monospace;
 
 }
+.row > *{
+ width=0%
+}
 
 .btn {
     width: 30px;
